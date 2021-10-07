@@ -1514,8 +1514,5 @@
         return \ini_set($option, $value);
     }
 
-<<<<<<< HEAD
 }
-=======
->>>>>>> parent of 054bb6d (Update Utility_functions.php)
 ?>
